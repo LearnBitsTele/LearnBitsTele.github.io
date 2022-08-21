@@ -11,5 +11,5 @@
 
 <p align="center"><a href="https://t.me/Learn Bits"> Join now - @LearnBits </a></p>
 
- ###`Feel free to fork this template. updates will arrive soon...`
+ #`Feel free to fork this template. updates will arrive soon...`
 
