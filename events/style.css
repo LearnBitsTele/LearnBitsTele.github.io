@@ -1344,7 +1344,7 @@ body {
 }
 .card.card-has-bg {
   transition: all 500ms cubic-bezier(0.19, 1, 0.22, 1);
-  background-size: 100%;
+  background-size: 110%;
   background-repeat: no-repeat;
   background-position: center center;
 }
