@@ -1,11 +1,6 @@
-body {
-  /* Created with https://www.css-gradient.com */
-  background: #23EC55;
-  background: -webkit-radial-gradient(top right, #23EC55, #2D51C1);
-  background: -moz-radial-gradient(top right, #23EC55, #2D51C1);
-  background: radial-gradient(to bottom left, #23EC55, #2D51C1);
-}
+body { background: url(https://telegra.ph/file/132dd00ef0e14f900bcb0.jpg) no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; 
 
+}
 
 .firefly {
   position: fixed;
